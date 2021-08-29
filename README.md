@@ -4,7 +4,7 @@ About me at :- https://abhav.herokuapp.com/#home
 <br />
 <br />
 
-Hi there, I'm **Abhav Thakur**, a **Full StackApp  Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/hackhubs), a React Native Developer and an Artificial Intelligence enthusiast👨🏽‍💼. 
+Hi there, I'm **Abhav Thakur**, a **Full Stack App  Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/hackhubs), a React Native Developer and an Artificial Intelligence enthusiast👨🏽‍💼. 
 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
