@@ -19,7 +19,7 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App  Developer**  and a **Softwar
 - 📫 Please email via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in to reach me.
 - 🥼I have an experience of 3 internship in React Native App Development using different tech stack like Firebase, MongoDB , NodeJs .
 
-
+<a href="https://app.daily.dev/Hackhubs"><img src="https://api.daily.dev/devcards/406c964c824f48d1a29ab4d52293bedf.png?r=xc6" width="400" alt="Abhav Thakur's Dev Card"/></a>
 
 
 **Languages and Tools:**  
