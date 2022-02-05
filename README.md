@@ -31,3 +31,4 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App  Developer**  and a **Softwar
 ![](https://github-readme-stats.vercel.app/api?username=AbhavThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhavThakur&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhavThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhavThakur&theme=dracula&hide_border=true)
