@@ -15,9 +15,9 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer**  and a **Software
 - 📫 Email via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in to reach me.
 - 🥼I have an experience of 4 internship in React Native App Development using different tech stack like Firebase, MongoDB , NodeJs .
 
-<a href="https://app.daily.dev/Hackhubs"><img src="https://api.daily.dev/devcards/406c964c824f48d1a29ab4d52293bedf.png?r=xc6" width="400" alt="Abhav Thakur's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Hackhubs"><img src="https://api.daily.dev/devcards/406c964c824f48d1a29ab4d52293bedf.png?r=xc6" width="400" alt="Abhav Thakur's Dev Card"/></a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+ -->
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/white.devillllll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhavthakur) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abhav-thakur)
 
