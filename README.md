@@ -13,7 +13,7 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer**  and a **Software
 - 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Email via abhav.thakur25@gmail.com or abhav.thakur2018@vitstudent.ac.in to reach me.
-- 🥼I have an experience of 4 internship in React Native App Development using different tech stack like Firebase, MongoDB , NodeJs .
+- 🥼I have an experience of 1.5 years in React Native App Development using different tech stack like Firebase, MongoDB , NodeJs .
 
 <!-- <a href="https://app.daily.dev/Hackhubs"><img src="https://api.daily.dev/devcards/406c964c824f48d1a29ab4d52293bedf.png?r=xc6" width="400" alt="Abhav Thakur's Dev Card"/></a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
