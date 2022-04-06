@@ -5,7 +5,7 @@ About me at :- https://www.linkedin.com/in/abhavthakur/, https://abhav.herokuapp
 
 Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer**  and a **Software Engineering student** 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Abhav Thakur](https://github.com/AbhavThakur), a React Native Developer and an Artificial Intelligence enthusiast👨🏽‍💼. 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs & Experience:**
 
 - 👨🏽‍💻 I’m currently focusing on improving my skill in App development and contribution to open source projects;
 - 🌱 I’m currently working as an App Developer.; 
