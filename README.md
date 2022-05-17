@@ -49,6 +49,6 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer**  and a **Software
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AbhavThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhavThakur&theme=radical&hide_border=false)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbhavThakur&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhavThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbhavThakur&theme=dracula&hide_border=true)
