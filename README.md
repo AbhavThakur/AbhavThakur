@@ -1,4 +1,6 @@
-### Hey 👋, I'm Abhav Thakur
+<!-- ### Hey 👋, I'm Abhav Thakur -->
+
+![](https://raw.githubusercontent.com/AbhavThakur/AbhavThakur/main/header.png)
 
 About me at :- https://www.linkedin.com/in/abhavthakur/, https://abhav.herokuapp.com/#home
 <br />
