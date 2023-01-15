@@ -95,3 +95,5 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer** and a **Software 
 </h4>
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<img align="center" alt="GIF" src="https://camo.githubusercontent.com/748ff82a868c65366d6df6cb0d624757ca06bf630dd91b83a7eb50baa727d7c3/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f404a6179616e74476f656c3030312f32626531363038622d313065612d343264642d623166352d3830656430303130363262312e737667"/>
