@@ -49,6 +49,9 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer**  and a **Software
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 
+
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AbhavThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbhavThakur&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
