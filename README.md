@@ -12,10 +12,10 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer** and a **Software 
 - 👨🏽‍💻 I’m currently focusing on improving my skill in App development and contribution to open source projects;
 - 🌱 I’m currently working as an App Developer.;
 - 🤔 My interests are Cyber Security,Artificial Intelligence, Backend Development etc..;
-- 💼 I’m pursuing a Bachelor's degree in Electronic And Computer Engineering;
+- 💼 I have compeleted my Bachelor's degree in Electronic And Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Email via abhav.thakur25@gmail.com or thakur.abhav25@gmail.com to reach me.
-- 🥼I have an experience of 1.5 years in React Native App Development using different tech stack like Firebase, MongoDB , NodeJs .
+- 🥼I have an experience of 2.5 years in React Native App Development using different tech stack like Firebase, MongoDB , NodeJs .
 
 <!-- <a href="https://app.daily.dev/Hackhubs"><img src="https://api.daily.dev/devcards/406c964c824f48d1a29ab4d52293bedf.png?r=xc6" width="400" alt="Abhav Thakur's Dev Card"/></a>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -96,4 +96,4 @@ Hi there, I'm **Abhav Thakur**, a **Full Stack App Developer** and a **Software 
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
-<img align="center" alt="GIF" src="https://camo.githubusercontent.com/748ff82a868c65366d6df6cb0d624757ca06bf630dd91b83a7eb50baa727d7c3/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f404a6179616e74476f656c3030312f32626531363038622d313065612d343264642d623166352d3830656430303130363262312e737667"/>
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 3D](AbhavThakur-2022.stl)
