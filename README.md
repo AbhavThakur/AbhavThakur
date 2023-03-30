@@ -1,9 +1,3 @@
-<!-- ### Hey 👋, I'm Abhav Thakur -->
-
-![](https://raw.githubusercontent.com/AbhavThakur/AbhavThakur/main/header.png)
-
-About me at :- https://www.linkedin.com/in/abhavthakur/
-<br />
 
 Hey there, I'm Abhav Thakur, a tech enthusiast and Full Stack App Developer from India. With 2.5 years of experience in React Native App Development, I've honed my skills using a variety of technologies such as Firebase, MongoDB, and NodeJs.
 
