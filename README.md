@@ -1,6 +1,8 @@
 
 Hey there, I'm Abhav Thakur, a tech enthusiast and Full Stack App Developer from India. With 2.5 years of experience in React Native App Development, I've honed my skills using a variety of technologies such as Firebase, MongoDB, and NodeJs.
 
+ <a href="https://app.daily.dev/Devilbell"><img align="right" src="https://api.daily.dev/devcards/51339e16b8ab43899c2fc4c86224086f.png?r=7wg" width="250" alt="Abhav Thakur's Dev Card"/></a>
+ 
 Apart from my work, I'm deeply passionate about Cyber Security, Artificial Intelligence, and Backend Development. I believe that the future of technology lies in these fields and I'm always excited to learn more and explore new possibilities.
 
 In addition to my technical expertise, I'm also a Community Team Member who loves to share my knowledge with others. Whether you're a beginner or an experienced developer, I'm always happy to help and answer any questions you might have.
@@ -8,14 +10,12 @@ In addition to my technical expertise, I'm also a Community Team Member who love
 I hold a Bachelor's degree in Electronic And Computer Engineering and I'm currently working as an App Developer. However, I'm also committed to improving my skills and contributing to open source projects. I strongly believe that collaboration is the key to achieving great things in tech, and I'm always eager to work with others who share my passion for innovation.
 
 If you have any questions or just want to say hi, feel free to reach out to me via email at abhav.thakur25@gmail.com or thakur.abhav25@gmail.com. Let's connect and create something amazing together!
- 
- <a href="https://app.daily.dev/Devilbell"><img align="right" src="https://api.daily.dev/devcards/51339e16b8ab43899c2fc4c86224086f.png?r=7wg" width="250" alt="Abhav Thakur's Dev Card"/></a>
 
+ 
+ 
  ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 
 ## 🌐Socials
