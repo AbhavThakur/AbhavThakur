@@ -56,7 +56,6 @@ If you have any questions or just want to say hi, feel free to reach out to me v
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhavThakur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=AbhavThakur&theme=react-dark&hide_border=true&area=true)
 
 <h4 align="center">
 
@@ -86,4 +85,4 @@ If you have any questions or just want to say hi, feel free to reach out to me v
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 3D](AbhavThakur-2022.stl)
+
