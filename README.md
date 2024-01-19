@@ -11,6 +11,11 @@ If you have any questions or just want to say hi, feel free to reach out to me v
  
  <a href="https://app.daily.dev/Devilbell"><img align="right" src="https://api.daily.dev/devcards/51339e16b8ab43899c2fc4c86224086f.png?r=7wg" width="250" alt="Abhav Thakur's Dev Card"/></a>
 
+ ## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 
 ## 🌐Socials
@@ -47,7 +52,14 @@ If you have any questions or just want to say hi, feel free to reach out to me v
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/> -->
+ 
+## 📖 Read My Blogs:
+
+<p>
+    <a target="_blank"href="https://dev.to/abhavthakur"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://abhav.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@abhavthakur"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
 
 # 📊GitHub Stats :
 
