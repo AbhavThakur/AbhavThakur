@@ -1,5 +1,8 @@
+<a href="https://app.daily.dev/devilbell"><img src="https://api.daily.dev/devcards/v2/n-1hHwKnD.png?r=p1j&type=wide" width="652" alt="Abhav Thakur's Dev Card"/></a>
 
-Hey there, I'm Abhav Thakur, a tech enthusiast and Full Stack App Developer from India. With 2.5 years of experience in React Native App Development, I've honed my skills using a variety of technologies such as Firebase, MongoDB, and NodeJs.<a href="https://app.daily.dev/devilbell"><img src="https://api.daily.dev/devcards/v2/n-1hHwKnD.png?r=p1j&type=default" width="356" alt="Abhav Thakur's Dev Card"/></a>Apart from my work, I'm deeply passionate about Cyber Security, Artificial Intelligence, and Backend Development. I believe that the future of technology lies in these fields and I'm always excited to learn more and explore new possibilities.
+Hey there, I'm Abhav Thakur, a tech enthusiast and Full Stack App Developer from India. With 2.5 years of experience in React Native App Development, I've honed my skills using a variety of technologies such as Firebase, MongoDB, and NodeJs. 
+               
+Apart from my work, I'm deeply passionate about Cyber Security, Artificial Intelligence, and Backend Development. I believe that the future of technology lies in these fields and I'm always excited to learn more and explore new possibilities.
 
 In addition to my technical expertise, I'm also a Community Team Member who loves to share my knowledge with others. Whether you're a beginner or an experienced developer, I'm always happy to help and answer any questions you might have.
 
