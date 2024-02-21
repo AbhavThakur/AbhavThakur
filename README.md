@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/devilbell"><img src="https://api.daily.dev/devcards/v2/n-1hHwKnD.png?r=p1j&type=wide" width="652" alt="Abhav Thakur's Dev Card"/></a>
+<a href="https://app.daily.dev/abhavthakur"><img src="https://api.daily.dev/devcards/v2/n-1hHwKnD.png?type=wide&r=ox3" width="652" alt="Abhav Thakur's Dev Card"/></a>
 
 Hey there, I'm Abhav Thakur, a tech enthusiast and Full Stack App Developer from India. With 2.5 years of experience in React Native App Development, I've honed my skills using a variety of technologies such as Firebase, MongoDB, and NodeJs. 
                
